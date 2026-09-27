@@ -6,8 +6,6 @@
     <groupId>com.example</groupId>
     <artifactId>rest1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>rest1</name>
-    <description>rest1</description>
 
     <properties>
         <java.version>21</java.version>
